@@ -1,0 +1,16 @@
+23.02.2026 11:39:44 - FinamPy.Ticker - INFO - Информация о тикере TQBR.SBER (Сбербанк, EQUITIES) на бирже MISX
+23.02.2026 11:39:44 - FinamPy.Ticker - INFO - - Лот: 1
+23.02.2026 11:39:44 - FinamPy.Ticker - INFO - - Шаг цены: 0.01
+23.02.2026 11:39:44 - FinamPy.Ticker - INFO - - Кол-во десятичных знаков: 2
+23.02.2026 11:39:44 - FinamPy.Ticker - INFO - Информация о тикере TQBR.HYDR (РусГидро, EQUITIES) на бирже MISX
+23.02.2026 11:39:44 - FinamPy.Ticker - INFO - - Лот: 1000
+23.02.2026 11:39:44 - FinamPy.Ticker - INFO - - Шаг цены: 0.0001
+23.02.2026 11:39:44 - FinamPy.Ticker - INFO - - Кол-во десятичных знаков: 4
+23.02.2026 11:39:44 - FinamPy.Ticker - INFO - Информация о тикере FUT.SiH6 (Si-3.26, FUTURES) на бирже RTSX
+23.02.2026 11:39:44 - FinamPy.Ticker - INFO - - Лот: 1000
+23.02.2026 11:39:44 - FinamPy.Ticker - INFO - - Шаг цены: 1.0
+23.02.2026 11:39:44 - FinamPy.Ticker - INFO - - Кол-во десятичных знаков: 0
+23.02.2026 11:39:44 - FinamPy.Ticker - INFO - Информация о тикере FUT.RIH6 (RTS-3.26, FUTURES) на бирже RTSX
+23.02.2026 11:39:44 - FinamPy.Ticker - INFO - - Лот: 1
+23.02.2026 11:39:44 - FinamPy.Ticker - INFO - - Шаг цены: 10.0
+23.02.2026 11:39:44 - FinamPy.Ticker - INFO - - Кол-во десятичных знаков: 0

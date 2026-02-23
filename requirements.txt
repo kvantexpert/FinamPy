@@ -1,0 +1,10 @@
+FinamPy
+tzdata
+keyring
+pandas
+matplotlib
+tabulate
+colorama
+websocket-client
+python-dateutil
+

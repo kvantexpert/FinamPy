@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: FinamPy
+Version: 2026.2.3
+Summary: Библиотека-обертка, которая позволяет работать с Finam Trade API брокера Финам из Python
+Home-page: https://github.com/cia76/FinamPy
+Author: Чечет Игорь Александрович
+Requires-Python: >=3.12
+Requires-Dist: keyring
+Requires-Dist: grpcio
+Requires-Dist: protobuf
+Requires-Dist: googleapis-common-protos
+Requires-Dist: types-protobuf
+Dynamic: author
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

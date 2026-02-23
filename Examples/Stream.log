@@ -1,0 +1,2811 @@
+23.02.2026 11:40:54 - FinamPy.Stream - INFO - Секунд котировок: 5
+23.02.2026 11:40:54 - FinamPy.Stream - INFO - Котировка - symbol: "SBER@MISX"
+timestamp {
+  seconds: 1771836053
+  nanos: 666682000
+}
+ask {
+  value: "314.03"
+}
+ask_size {
+  value: "4246"
+}
+bid {
+  value: "314.02"
+}
+bid_size {
+  value: "1"
+}
+last {
+  value: "314.03"
+}
+last_size {
+  value: "2"
+}
+volume {
+  value: "3281335"
+}
+open {
+  value: "314.29"
+}
+high {
+  value: "314.67"
+}
+low {
+  value: "313.05"
+}
+close {
+  value: "314.0"
+}
+change {
+  value: "0.03"
+}
+
+23.02.2026 11:40:55 - FinamPy.Stream - INFO - Котировка - symbol: "SBER@MISX"
+timestamp {
+  seconds: 1771836055
+  nanos: 524989569
+}
+ask_size {
+  value: "0"
+}
+bid_size {
+  value: "4"
+}
+last_size {
+  value: "0"
+}
+volume {
+  value: "0"
+}
+
+23.02.2026 11:40:58 - FinamPy.Stream - INFO - Котировка - symbol: "SBER@MISX"
+timestamp {
+  seconds: 1771836058
+  nanos: 690932000
+}
+ask_size {
+  value: "4245"
+}
+bid_size {
+  value: "0"
+}
+last {
+  value: "314.03"
+}
+last_size {
+  value: "1"
+}
+volume {
+  value: "3281336"
+}
+
+23.02.2026 11:40:59 - FinamPy.Stream - INFO - Секунд стакана: 5
+23.02.2026 11:40:59 - FinamPy.Stream - INFO - Стакан - symbol: "SBER@MISX"
+rows {
+  price {
+    value: "314.24"
+  }
+  sell_size {
+    value: "15664.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.23"
+  }
+  sell_size {
+    value: "10352.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.22"
+  }
+  sell_size {
+    value: "3.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.2"
+  }
+  sell_size {
+    value: "454.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.19"
+  }
+  sell_size {
+    value: "7227.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.18"
+  }
+  sell_size {
+    value: "7110.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.17"
+  }
+  sell_size {
+    value: "12350.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.16"
+  }
+  sell_size {
+    value: "11040.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.15"
+  }
+  sell_size {
+    value: "6896.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.14"
+  }
+  sell_size {
+    value: "2236.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.13"
+  }
+  sell_size {
+    value: "6745.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.12"
+  }
+  sell_size {
+    value: "6634.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.11"
+  }
+  sell_size {
+    value: "4257.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.1"
+  }
+  sell_size {
+    value: "2566.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.09"
+  }
+  sell_size {
+    value: "7.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.08"
+  }
+  sell_size {
+    value: "536.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.07"
+  }
+  sell_size {
+    value: "801.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.05"
+  }
+  sell_size {
+    value: "1963.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.04"
+  }
+  sell_size {
+    value: "6.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.03"
+  }
+  sell_size {
+    value: "4245.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "313.82"
+  }
+  buy_size {
+    value: "1160.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "313.83"
+  }
+  buy_size {
+    value: "2.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "313.84"
+  }
+  buy_size {
+    value: "4964.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "313.85"
+  }
+  buy_size {
+    value: "27825.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "313.86"
+  }
+  buy_size {
+    value: "4700.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "313.87"
+  }
+  buy_size {
+    value: "6482.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "313.88"
+  }
+  buy_size {
+    value: "4835.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "313.89"
+  }
+  buy_size {
+    value: "967.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "313.9"
+  }
+  buy_size {
+    value: "3111.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "313.91"
+  }
+  buy_size {
+    value: "3934.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "313.92"
+  }
+  buy_size {
+    value: "434.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "313.93"
+  }
+  buy_size {
+    value: "350.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "313.94"
+  }
+  buy_size {
+    value: "784.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "313.95"
+  }
+  buy_size {
+    value: "1610.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "313.96"
+  }
+  buy_size {
+    value: "337.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "313.97"
+  }
+  buy_size {
+    value: "800.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "313.99"
+  }
+  buy_size {
+    value: "1316.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.0"
+  }
+  buy_size {
+    value: "10831.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.01"
+  }
+  buy_size {
+    value: "6106.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+rows {
+  price {
+    value: "314.02"
+  }
+  buy_size {
+    value: "4.0"
+  }
+  action: ACTION_ADD
+  timestamp {
+    seconds: 1771836058
+    nanos: 483846000
+  }
+}
+
+23.02.2026 11:40:59 - FinamPy.Stream - INFO - Стакан - symbol: "SBER@MISX"
+rows {
+  price {
+    value: "314.24"
+  }
+  sell_size {
+    value: "15664.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.23"
+  }
+  sell_size {
+    value: "10352.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.22"
+  }
+  sell_size {
+    value: "3.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.2"
+  }
+  sell_size {
+    value: "454.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.19"
+  }
+  sell_size {
+    value: "7227.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.18"
+  }
+  sell_size {
+    value: "7110.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.17"
+  }
+  sell_size {
+    value: "12350.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.16"
+  }
+  sell_size {
+    value: "11040.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.15"
+  }
+  sell_size {
+    value: "6896.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.14"
+  }
+  sell_size {
+    value: "2236.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.13"
+  }
+  sell_size {
+    value: "6745.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.12"
+  }
+  sell_size {
+    value: "6634.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.11"
+  }
+  sell_size {
+    value: "4257.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.1"
+  }
+  sell_size {
+    value: "2566.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.09"
+  }
+  sell_size {
+    value: "7.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.08"
+  }
+  sell_size {
+    value: "536.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.07"
+  }
+  sell_size {
+    value: "801.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.05"
+  }
+  sell_size {
+    value: "1963.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.04"
+  }
+  sell_size {
+    value: "6.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.03"
+  }
+  sell_size {
+    value: "4240.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "313.82"
+  }
+  buy_size {
+    value: "1160.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "313.83"
+  }
+  buy_size {
+    value: "2.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "313.84"
+  }
+  buy_size {
+    value: "4964.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "313.85"
+  }
+  buy_size {
+    value: "27825.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "313.86"
+  }
+  buy_size {
+    value: "4700.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "313.87"
+  }
+  buy_size {
+    value: "6482.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "313.88"
+  }
+  buy_size {
+    value: "4835.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "313.89"
+  }
+  buy_size {
+    value: "967.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "313.9"
+  }
+  buy_size {
+    value: "3111.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "313.91"
+  }
+  buy_size {
+    value: "3934.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "313.92"
+  }
+  buy_size {
+    value: "434.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "313.93"
+  }
+  buy_size {
+    value: "350.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "313.94"
+  }
+  buy_size {
+    value: "784.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "313.95"
+  }
+  buy_size {
+    value: "1610.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "313.96"
+  }
+  buy_size {
+    value: "337.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "313.97"
+  }
+  buy_size {
+    value: "800.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "313.99"
+  }
+  buy_size {
+    value: "1316.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.0"
+  }
+  buy_size {
+    value: "10831.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.01"
+  }
+  buy_size {
+    value: "6106.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+rows {
+  price {
+    value: "314.02"
+  }
+  buy_size {
+    value: "4.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 214598000
+  }
+}
+
+23.02.2026 11:41:00 - FinamPy.Stream - INFO - Стакан - symbol: "SBER@MISX"
+rows {
+  price {
+    value: "314.24"
+  }
+  sell_size {
+    value: "15664.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.23"
+  }
+  sell_size {
+    value: "10352.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.22"
+  }
+  sell_size {
+    value: "3.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.2"
+  }
+  sell_size {
+    value: "454.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.19"
+  }
+  sell_size {
+    value: "7227.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.18"
+  }
+  sell_size {
+    value: "7110.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.17"
+  }
+  sell_size {
+    value: "12350.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.16"
+  }
+  sell_size {
+    value: "11040.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.15"
+  }
+  sell_size {
+    value: "6896.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.14"
+  }
+  sell_size {
+    value: "2236.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.13"
+  }
+  sell_size {
+    value: "6745.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.12"
+  }
+  sell_size {
+    value: "6634.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.11"
+  }
+  sell_size {
+    value: "4257.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.1"
+  }
+  sell_size {
+    value: "2566.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.09"
+  }
+  sell_size {
+    value: "7.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.08"
+  }
+  sell_size {
+    value: "536.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.07"
+  }
+  sell_size {
+    value: "801.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.05"
+  }
+  sell_size {
+    value: "1963.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.04"
+  }
+  sell_size {
+    value: "6.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.03"
+  }
+  sell_size {
+    value: "4239.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "313.82"
+  }
+  buy_size {
+    value: "1160.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "313.83"
+  }
+  buy_size {
+    value: "2.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "313.84"
+  }
+  buy_size {
+    value: "4964.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "313.85"
+  }
+  buy_size {
+    value: "27825.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "313.86"
+  }
+  buy_size {
+    value: "4700.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "313.87"
+  }
+  buy_size {
+    value: "6482.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "313.88"
+  }
+  buy_size {
+    value: "4835.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "313.89"
+  }
+  buy_size {
+    value: "967.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "313.9"
+  }
+  buy_size {
+    value: "3111.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "313.91"
+  }
+  buy_size {
+    value: "3934.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "313.92"
+  }
+  buy_size {
+    value: "434.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "313.93"
+  }
+  buy_size {
+    value: "350.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "313.94"
+  }
+  buy_size {
+    value: "784.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "313.95"
+  }
+  buy_size {
+    value: "1610.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "313.96"
+  }
+  buy_size {
+    value: "337.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "313.97"
+  }
+  buy_size {
+    value: "800.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "313.99"
+  }
+  buy_size {
+    value: "1316.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.0"
+  }
+  buy_size {
+    value: "10831.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.01"
+  }
+  buy_size {
+    value: "6106.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+rows {
+  price {
+    value: "314.02"
+  }
+  buy_size {
+    value: "4.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836059
+    nanos: 928524000
+  }
+}
+
+23.02.2026 11:41:00 - FinamPy.Stream - INFO - Стакан - symbol: "SBER@MISX"
+rows {
+  price {
+    value: "314.24"
+  }
+  sell_size {
+    value: "15664.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.23"
+  }
+  sell_size {
+    value: "10352.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.22"
+  }
+  sell_size {
+    value: "3.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.2"
+  }
+  sell_size {
+    value: "454.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.19"
+  }
+  sell_size {
+    value: "7227.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.18"
+  }
+  sell_size {
+    value: "7110.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.17"
+  }
+  sell_size {
+    value: "12350.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.16"
+  }
+  sell_size {
+    value: "11040.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.15"
+  }
+  sell_size {
+    value: "6896.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.14"
+  }
+  sell_size {
+    value: "2236.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.13"
+  }
+  sell_size {
+    value: "6745.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.12"
+  }
+  sell_size {
+    value: "6634.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.11"
+  }
+  sell_size {
+    value: "4257.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.1"
+  }
+  sell_size {
+    value: "2566.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.09"
+  }
+  sell_size {
+    value: "7.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.08"
+  }
+  sell_size {
+    value: "536.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.07"
+  }
+  sell_size {
+    value: "801.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.05"
+  }
+  sell_size {
+    value: "1963.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.04"
+  }
+  sell_size {
+    value: "6.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.03"
+  }
+  sell_size {
+    value: "4238.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "313.82"
+  }
+  buy_size {
+    value: "1160.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "313.83"
+  }
+  buy_size {
+    value: "2.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "313.84"
+  }
+  buy_size {
+    value: "4964.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "313.85"
+  }
+  buy_size {
+    value: "27825.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "313.86"
+  }
+  buy_size {
+    value: "4700.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "313.87"
+  }
+  buy_size {
+    value: "6482.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "313.88"
+  }
+  buy_size {
+    value: "4835.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "313.89"
+  }
+  buy_size {
+    value: "967.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "313.9"
+  }
+  buy_size {
+    value: "3111.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "313.91"
+  }
+  buy_size {
+    value: "3934.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "313.92"
+  }
+  buy_size {
+    value: "434.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "313.93"
+  }
+  buy_size {
+    value: "350.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "313.94"
+  }
+  buy_size {
+    value: "784.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "313.95"
+  }
+  buy_size {
+    value: "1610.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "313.96"
+  }
+  buy_size {
+    value: "337.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "313.97"
+  }
+  buy_size {
+    value: "800.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "313.99"
+  }
+  buy_size {
+    value: "1316.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.0"
+  }
+  buy_size {
+    value: "10831.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.01"
+  }
+  buy_size {
+    value: "6106.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+rows {
+  price {
+    value: "314.02"
+  }
+  buy_size {
+    value: "4.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 265355000
+  }
+}
+
+23.02.2026 11:41:01 - FinamPy.Stream - INFO - Стакан - symbol: "SBER@MISX"
+rows {
+  price {
+    value: "314.24"
+  }
+  sell_size {
+    value: "15664.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.23"
+  }
+  sell_size {
+    value: "10352.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.22"
+  }
+  sell_size {
+    value: "3.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.2"
+  }
+  sell_size {
+    value: "454.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.19"
+  }
+  sell_size {
+    value: "7227.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.18"
+  }
+  sell_size {
+    value: "7110.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.17"
+  }
+  sell_size {
+    value: "12350.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.16"
+  }
+  sell_size {
+    value: "11040.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.15"
+  }
+  sell_size {
+    value: "6896.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.14"
+  }
+  sell_size {
+    value: "2236.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.13"
+  }
+  sell_size {
+    value: "5245.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.12"
+  }
+  sell_size {
+    value: "8134.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.11"
+  }
+  sell_size {
+    value: "4257.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.1"
+  }
+  sell_size {
+    value: "2566.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.09"
+  }
+  sell_size {
+    value: "7.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.08"
+  }
+  sell_size {
+    value: "536.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.07"
+  }
+  sell_size {
+    value: "801.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.05"
+  }
+  sell_size {
+    value: "1963.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.04"
+  }
+  sell_size {
+    value: "6.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.03"
+  }
+  sell_size {
+    value: "4238.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "313.82"
+  }
+  buy_size {
+    value: "1160.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "313.83"
+  }
+  buy_size {
+    value: "2.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "313.84"
+  }
+  buy_size {
+    value: "4964.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "313.85"
+  }
+  buy_size {
+    value: "27825.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "313.86"
+  }
+  buy_size {
+    value: "4700.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "313.87"
+  }
+  buy_size {
+    value: "6482.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "313.88"
+  }
+  buy_size {
+    value: "4835.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "313.89"
+  }
+  buy_size {
+    value: "967.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "313.9"
+  }
+  buy_size {
+    value: "3111.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "313.91"
+  }
+  buy_size {
+    value: "3934.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "313.92"
+  }
+  buy_size {
+    value: "434.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "313.93"
+  }
+  buy_size {
+    value: "350.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "313.94"
+  }
+  buy_size {
+    value: "784.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "313.95"
+  }
+  buy_size {
+    value: "1610.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "313.96"
+  }
+  buy_size {
+    value: "337.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "313.97"
+  }
+  buy_size {
+    value: "800.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "313.99"
+  }
+  buy_size {
+    value: "1316.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.0"
+  }
+  buy_size {
+    value: "10831.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.01"
+  }
+  buy_size {
+    value: "6106.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+rows {
+  price {
+    value: "314.02"
+  }
+  buy_size {
+    value: "4.0"
+  }
+  action: ACTION_UPDATE
+  timestamp {
+    seconds: 1771836060
+    nanos: 916977000
+  }
+}
+
+23.02.2026 11:41:04 - FinamPy.Stream - INFO - Секунд сделок: 5
+23.02.2026 11:41:05 - FinamPy.Stream - INFO - Сделка - trade_id: "15655924633"
+timestamp {
+  seconds: 1771836065
+  nanos: 113167000
+}
+price {
+  value: "314.03"
+}
+size {
+  value: "2.0"
+}
+side: SIDE_BUY
+
+23.02.2026 11:41:05 - FinamPy.Stream - INFO - Сделка - trade_id: "15655924643"
+timestamp {
+  seconds: 1771836065
+  nanos: 745976000
+}
+price {
+  value: "314.02"
+}
+size {
+  value: "1.0"
+}
+side: SIDE_SELL
+
+23.02.2026 11:41:06 - FinamPy.Stream - INFO - Сделка - trade_id: "15655924646"
+timestamp {
+  seconds: 1771836065
+  nanos: 994115000
+}
+price {
+  value: "314.02"
+}
+size {
+  value: "3.0"
+}
+side: SIDE_SELL
+
+23.02.2026 11:41:06 - FinamPy.Stream - INFO - Сделка - trade_id: "15655924647"
+timestamp {
+  seconds: 1771836065
+  nanos: 994115000
+}
+price {
+  value: "314.01"
+}
+size {
+  value: "924.0"
+}
+side: SIDE_SELL
+
+23.02.2026 11:41:06 - FinamPy.Stream - INFO - Сделка - trade_id: "15655924648"
+timestamp {
+  seconds: 1771836065
+  nanos: 994115000
+}
+price {
+  value: "314.01"
+}
+size {
+  value: "98.0"
+}
+side: SIDE_SELL
+
+23.02.2026 11:41:06 - FinamPy.Stream - INFO - Сделка - trade_id: "15655924649"
+timestamp {
+  seconds: 1771836065
+  nanos: 994115000
+}
+price {
+  value: "314.01"
+}
+size {
+  value: "5.0"
+}
+side: SIDE_SELL
+
+23.02.2026 11:41:06 - FinamPy.Stream - INFO - Сделка - trade_id: "15655924650"
+timestamp {
+  seconds: 1771836065
+  nanos: 994115000
+}
+price {
+  value: "314.01"
+}
+size {
+  value: "1.0"
+}
+side: SIDE_SELL
+
+23.02.2026 11:41:06 - FinamPy.Stream - INFO - Сделка - trade_id: "15655924651"
+timestamp {
+  seconds: 1771836065
+  nanos: 994115000
+}
+price {
+  value: "314.01"
+}
+size {
+  value: "576.0"
+}
+side: SIDE_SELL
+
+23.02.2026 11:41:06 - FinamPy.Stream - INFO - Сделка - trade_id: "15655924660"
+timestamp {
+  seconds: 1771836066
+  nanos: 608938000
+}
+price {
+  value: "314.01"
+}
+size {
+  value: "10.0"
+}
+side: SIDE_SELL
+

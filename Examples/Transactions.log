@@ -1,0 +1,28 @@
+23.02.2026 11:41:34 - FinamPy.Transactions - INFO - Заявка на покупку минимального лота value: "1"
+ шт. TQBR.SBER по лимитной цене 310.89
+23.02.2026 11:41:34 - FinamPy - ERROR - Ошибка INVALID_ARGUMENT: [145]No enough coverage. You need 44.85 RURНедостаток обеспечения в сумме 44.85 RUR при вызове функции /grpc.tradeapi.v1.orders.OrdersService/PlaceOrder(account_id: "TRQD05:562750"
+symbol: "SBER@MISX"
+quantity {
+  value: "1"
+}
+side: SIDE_BUY
+type: ORDER_TYPE_LIMIT
+limit_price {
+  value: "310.89"
+}
+client_order_id: "1771836094"
+)
+23.02.2026 11:54:54 - FinamPy.Transactions - INFO - Заявка на покупку минимального лота value: "1"
+ шт. TQBR.SBER по лимитной цене 310.9
+23.02.2026 11:54:54 - FinamPy - ERROR - Ошибка INVALID_ARGUMENT: [145]No enough coverage. You need 44.85 RURНедостаток обеспечения в сумме 44.85 RUR при вызове функции /grpc.tradeapi.v1.orders.OrdersService/PlaceOrder(account_id: "TRQD05:562750"
+symbol: "SBER@MISX"
+quantity {
+  value: "1"
+}
+side: SIDE_BUY
+type: ORDER_TYPE_LIMIT
+limit_price {
+  value: "310.9"
+}
+client_order_id: "1771836894"
+)
